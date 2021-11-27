@@ -1,7 +1,8 @@
 ## Welcome to my GitHub page
 
-# Programing languages I know:
+# Languages I know:
 * C++
 * C
-# Programing languages I plan to learn:
+* 
+# Languages I plan to learn:
 * Python
